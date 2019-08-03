@@ -1,0 +1,237 @@
+
+@media all and (max-width: 1248px){
+	.location h2{
+		font-size: 30px;
+	}
+	.location img{
+		width: 300px;
+	}
+	.location p{
+		font-size: 10px;
+	}
+
+}
+
+@media all and (max-width: 1197px){
+	.mid{
+		width: 95%;
+	}
+
+}
+@media all and (max-width: 1184px){
+	.circle-sec .left{
+		width:40px;
+		left: -60px;
+
+	}
+	 .circle-sec .right{
+	 	width:40px;
+	 	right: -60px;
+	 }
+
+}
+@media all and (max-width: 1143px){
+	.footer h2{
+		font-size: 15px;
+	}
+	.footer p{
+		font-size: 10px;
+	}
+	.footer label{
+		font-size: 10px;
+	}
+	.join{
+	width: 25%;
+	}
+
+}
+@media all and (max-width: 1009px){
+	.logo{
+		width: 100%;
+		float: none;
+	}
+	.logo img{
+		margin:auto;
+		display: block;
+	}
+	.header{
+		overflow: hidden;
+	}
+	.menu{
+		width:100%;
+		float: none;
+
+	}
+	.menu ul{
+		text-align: center;
+	}
+	.search-box{
+		width: 95%;
+		margin: auto;
+		text-align: center;
+		
+
+	}
+	.search-box .box{
+		width:30%;
+		float: none;
+		display: inline-block;
+		margin:auto;
+		
+
+	}
+	.search-box .box1{
+		width:100%;
+		float: none;		
+		margin:auto;
+		
+
+	}
+	.box input{
+		
+
+	}
+	.box select{
+
+	}
+
+}
+@media all and (max-width: 842px){
+	.circle{
+		width: 150px;
+		height: 150px;
+		margin-top: 45px;
+	}
+	.location h2{
+		font-size: 25px;
+		width: 90%;
+	}
+	.location img{
+		width: 250px;
+	}
+	.location p{
+		font-size: 10px;
+		width:70%;
+	}
+	.search-box .box{
+		display: block;
+		width: 100%;
+		margin:auto;
+		width: 95%;
+	}
+}
+@media all and (max-width: 648px){
+	.about{
+		width: 46.5%;
+
+	}
+	.news{
+		width: 31.5%;
+		margin-left: 70px;
+		margin-right: 0px;
+
+	}
+	.contact-form{
+		width: 38%;
+		float:right;
+		margin-left: 0px;
+
+	}
+	.join{
+		width: 55%;
+		float:left;
+		margin-left: 0px;
+	}
+	.left{
+		display: none;
+	}
+	.right{
+		display: none;
+	}
+	.location img{
+		display: none;
+	}
+	.location h2{
+		width: 100%;
+		text-align: center;
+	}
+	.location p{
+		width: 100%;
+		text-align: center;
+	}
+	
+	
+}
+@media all and (max-width: 605px){
+	.menu{
+		display: none;
+	}
+	.menu-res{
+		display: block;
+		
+	}
+	.menu ul li{
+		display: block;
+	}
+	.menu ul li a{
+		padding: 15px 0px;
+	}
+	.menu-res a{		
+		color: #fff;
+		text-align: right;
+		display: block;
+		padding: 15px 20px;
+
+	}
+}
+@media all and (max-width: 529px){
+	.banner-cont{
+		width: 100%;
+	}
+	.banner-cont h4{
+		font-size: 15px;
+
+	}	
+	.banner-cont h1{
+		font-size: 30px;
+	}	
+	.banner-cont h5{
+		font-size: 15px;
+	}
+	.line-1{
+	width: 45%;
+	}
+	.line-2{
+	width: 35%;
+	}
+	.room-types h2{
+		font-size: 33px;
+	}
+	.room-box{	
+		width:100%;		
+
+	}
+	.footer{
+		overflow: hidden;
+	}
+	.about,.news,.join,.contact-form{
+		width: 100%;
+		float: none;
+		display: block;
+	}
+	
+	.news{
+		margin-left: 0px;
+		vertical-align: top;
+	}
+	.contact-form input{
+		display: block;
+	}
+	.box input{
+		width: 93%;
+	}
+
+
+}
+
+
